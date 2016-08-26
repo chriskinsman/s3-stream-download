@@ -1,0 +1,10 @@
+language: node_js
+node_js: 4.2.2
+
+
+build:
+  ci:
+    - node --version
+    - npm --version
+    - shippable_retry npm install
+  cache: true
