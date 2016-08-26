@@ -1,5 +1,5 @@
 {
-  "name": "s3-multipart-download",
+  "name": "s3-stream-download",
   "version": "0.0.1",
   "description": "Provides streaming multipart downloads for S3",
   "main": "index.js",
