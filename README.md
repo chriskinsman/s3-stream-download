@@ -1,5 +1,9 @@
 # s3-stream-download
 
+  [![shippable Build][shippable-image]][shippable-url]
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+
 Multipart streaming download from S3
 
 ## Features
@@ -54,3 +58,9 @@ The author is [Chris Kinsman](https://github.com/chriskinsman) from [PushSpring]
 
   [MIT](LICENSE)
 
+[npm-image]: https://img.shields.io/npm/v/s3-stream-download.svg?style=flat
+[npm-url]: https://npmjs.org/package/s3-stream-download
+[downloads-image]: https://img.shields.io/npm/dm/s3-stream-download.svg?style=flat
+[downloads-url]: https://npmjs.org/package/s3-stream-download
+[shippable-image]: https://img.shields.io/shippable/chriskinsman/s3-stream-download.svg
+[shippable-url]: https://app.shippable.com/projects/57bfbd4c016a370e00eb8907
