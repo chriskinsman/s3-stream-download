@@ -62,5 +62,5 @@ The author is [Chris Kinsman](https://github.com/chriskinsman) from [PushSpring]
 [npm-url]: https://npmjs.org/package/s3-stream-download
 [downloads-image]: https://img.shields.io/npm/dm/s3-stream-download.svg?style=flat
 [downloads-url]: https://npmjs.org/package/s3-stream-download
-[shippable-image]: https://img.shields.io/shippable/chriskinsman/s3-stream-download.svg
+[shippable-image]: https://api.shippable.com/projects/57bfbd4c016a370e00eb8907/badge?branch=master
 [shippable-url]: https://app.shippable.com/projects/57bfbd4c016a370e00eb8907
